@@ -3,4 +3,4 @@ git status
 git clone
 git remote -v
 git pull origin main
-
+git remote set-url --add origin <new-url>
